@@ -1,0 +1,7 @@
+[
+  {"id":1,"tarih":"2025-11-21","altin_turu":"Gram Altın","adet":2.0,"alis_fiyati_gram":5900.0,"toplam_odenen":11800.0,"kyk_kredi":12000,"ekstra":0,"kalan":200.0,"not":""},
+  {"id":2,"tarih":"2025-12-10","altin_turu":"Gram Altın","adet":1.0,"alis_fiyati_gram":5850.0,"toplam_odenen":5850.0,"kyk_kredi":6000,"ekstra":0,"kalan":150.0,"not":""},
+  {"id":3,"tarih":"2026-01-02","altin_turu":"Gram Altın","adet":2.0,"alis_fiyati_gram":6350.0,"toplam_odenen":12700.0,"kyk_kredi":8000,"ekstra":4350,"kalan":0.0,"not":""},
+  {"id":4,"tarih":"2026-02-06","altin_turu":"Gram Altın","adet":1.0,"alis_fiyati_gram":7400.0,"toplam_odenen":7400.0,"kyk_kredi":8000,"ekstra":3750,"kalan":0.0,"not":""},
+  {"id":5,"tarih":"2026-03-05","altin_turu":"Gram Altın","adet":2.0,"alis_fiyati_gram":7600.0,"toplam_odenen":15200.0,"kyk_kredi":8000,"ekstra":7200,"kalan":0.0,"not":""}
+]
